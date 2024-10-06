@@ -148,6 +148,30 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
 
+#EXTINF:-1 group-title="QUAYTAY", BLV BATGIOI
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@momhd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="QUAYTAY", BLV SATANG
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@taohd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="QUAYTAY", BLV NGOKHONG
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phanghd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="QUAYTAY", BLV DUONGTANG
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phuhd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="QUAYTAY", BLV BACHLONG
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@bachlongmahd1/chunklist.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="SOCOLA", BLV DECO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1728216625-0-0-dfc52e3f63c41b33fdd870614642181d
