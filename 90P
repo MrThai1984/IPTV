@@ -45,12 +45,24 @@ https://vb90xltcvg-secure.nsnd.live/dMU3lkbCKCr2pJa9fWnT1w/847878fb5be3ca4c0539d
 
 #EXTINF:-1 group-title="VeBoTV", NguoiLong
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://obevcimanyd179569584.thapcam.link/Pml8u41Ip4X9DmA9sMw22A/Fv2lucGIbhPi2caWYvF5Lg/1728228801614/live/longHD/chunklist.m3u8
+#https://obevcimanyd179569584.thapcam.link/Pml8u41Ip4X9DmA9sMw22A/Fv2lucGIbhPi2caWYvF5Lg/1728228801614/live/longHD/chunklist.m3u8
+https://vb90xltcvg-secure.nsnd.live/9_KizF3ik-96SzV821TRKw/3eccd6392218a7eb1e58eb18b5b4757c/1728239189/live/_definst_/stream_1_1bda7@longFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiSoi
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 #https://obevcimanyd179569584.thapcam.link/Ltumi4jr6emDIGZmovxBcA/Fv2lucGIbhPi2caWYvF5Lg/1728238004741/live/soiHD/chunklist.m3u8
 https://vb90xltcvg-secure.nsnd.live/SCmdpJWKEmn4M6C7mrbMEA/522fa8a1e6086eda6ae886e796133e2d/1728238004/live/_definst_/stream_1_1bda7@soiFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="VeBoTV", NguoiCao
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+#https://obevcimanyd179569584.thapcam.link/_M0nTb9erJHZ0JK4jKPWRQ/Fv2lucGIbhPi2caWYvF5Lg/1728239034555/live/caoHD/chunklist.m3u8
+https://vb90xltcvg-secure.nsnd.live/qbbKSgXp3n9zbjFKeya1yQ/0027e56455a2e21d4e9af4c00853528e/1728239034/live/_definst_/stream_1_1bda7@caoFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="VeBoTV", NguoiPhep
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+#https://obevcimanyd179569584.thapcam.link/zhmt69D0U2qyOAxcIpTevw/Fv2lucGIbhPi2caWYvF5Lg/1728239121218/live/phepHD/chunklist.m3u8
+https://vb90xltcvg-secure.nsnd.live/FRV_QAV5onpIFQ81cbxz8w/bb30dc1883f5f92057cd67eec640c4d0/1728239121/live/_definst_/stream_1_1bda7@phepFHD/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="VeBoTV", NguoiNui
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -81,25 +93,50 @@ https://live-eu-pzybaks9eeliv.thapcam.link/a886554e990e7fd5ee8aa9a131e5bb18/1728
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179591709.thapcam.link/ay-vo6jEMVCIo59DRLlBFg/Fv2lucGIbhPi2caWYvF5Lg/1728210853383/live/may28/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV GAP
+#EXTINF:-1 group-title="CAKHIA", BLV PHO
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phohd1.flv
+#https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@phohd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cakhiahd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV GAB
+#EXTINF:-1 group-title="CAKHIA", BLV BIP
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
+#https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV GAC
+#EXTINF:-1 group-title="CAKHIA", BLV CAY
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
+#https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cayhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV GAS
+#EXTINF:-1 group-title="CAKHIA", BLV SUN
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@sunhd1.flv
+#https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@sunhd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@sunhd1/chunklist.m3u8
 
-#EXTINF:-1 group-title="CAKHIA", BLV GAL
+#EXTINF:-1 group-title="CAKHIA", BLV PAO
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV CHUOI
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@cachuoihd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV ALU
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luluhd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV LOI
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+#https://liveflv-cakhia.cdnlive.pro/live/stream_1_a86e6@loihd1.flv
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@loihd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV LU
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
+
+#EXTINF:-1 group-title="CAKHIA", BLV HEO
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
 
 #EXTINF:-1 group-title="SOCOLA", BLV DECO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
