@@ -1,14 +1,16 @@
 #EXTM3U
 
+#---------------90P------------------#
+
 #EXTINF:-1 group-title="VeBoTV", MayZ1
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/LstIRfICe9ejLSSMA_PdDg/Fv2lucGIbhPi2caWYvF5Lg/1728211759814/live/Z1HD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/eXTvCGX8WgGzpgaGbRumRg/bf44ba621235a4936d4c6ae6054d551e/1728238272/live/_definst_/stream_1_1bda7@Z1FHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/LstIRfICe9ejLSSMA_PdDg/Fv2lucGIbhPi2caWYvF5Lg/1728211759814/live/Z1HD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/eXTvCGX8WgGzpgaGbRumRg/bf44ba621235a4936d4c6ae6054d551e/1728238272/live/_definst_/stream_1_1bda7@Z1FHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", May1
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/OOHAILIFEq6s0cYRyudH4Q/Fv2lucGIbhPi2caWYvF5Lg/1728238559372/live/may1HD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/_0CblRWs4GOXGF2Mr3cuiQ/a75e9b78c79480f30c7ea83b12c71e42/1728238559/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/OOHAILIFEq6s0cYRyudH4Q/Fv2lucGIbhPi2caWYvF5Lg/1728238559372/live/may1HD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/_0CblRWs4GOXGF2Mr3cuiQ/a75e9b78c79480f30c7ea83b12c71e42/1728238559/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", MayZ2
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -16,18 +18,18 @@ https://obevcimanyd179569584.thapcam.link/F6Ayxlwd-B4idXtyISXY8w/Fv2lucGIbhPi2ca
 
 #EXTINF:-1 group-title="VeBoTV", BanhCuon
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/Oq7f0sduazilSydHe4eB6w/Fv2lucGIbhPi2caWYvF5Lg/1728228723508/live/cuonHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/ZrbrKe0i18ekqAxCMJ3nnA/ecdd2fe3d570b8f38d7664bb44af6d73/1728237599/live/_definst_/stream_1_1bda7@cuonFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/Oq7f0sduazilSydHe4eB6w/Fv2lucGIbhPi2caWYvF5Lg/1728228723508/live/cuonHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/ZrbrKe0i18ekqAxCMJ3nnA/ecdd2fe3d570b8f38d7664bb44af6d73/1728237599/live/_definst_/stream_1_1bda7@cuonFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", BunCha
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/kK3OpmNdClAPul22Yqv4cw/Fv2lucGIbhPi2caWYvF5Lg/1728241034912/live/chaHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/-AsZ793QDuI66qVmHstXfA/c30c788ad0707c1b9d75449bd5366f27/1728241034/live/_definst_/stream_1_1bda7@chaFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/kK3OpmNdClAPul22Yqv4cw/Fv2lucGIbhPi2caWYvF5Lg/1728241034912/live/chaHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/-AsZ793QDuI66qVmHstXfA/c30c788ad0707c1b9d75449bd5366f27/1728241034/live/_definst_/stream_1_1bda7@chaFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", MyTom
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/JCcSqx19FtwzjY-YVVJM4Q/Fv2lucGIbhPi2caWYvF5Lg/1728237784437/live/myHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/nI9OGJsOY3XTX2kWMPCpnA/37c56eb4aaf958eda25bed5c53705fc2/1728237784/live/_definst_/stream_1_1bda7@myFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/JCcSqx19FtwzjY-YVVJM4Q/Fv2lucGIbhPi2caWYvF5Lg/1728237784437/live/myHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/nI9OGJsOY3XTX2kWMPCpnA/37c56eb4aaf958eda25bed5c53705fc2/1728237784/live/_definst_/stream_1_1bda7@myFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", MeoU
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -35,49 +37,57 @@ https://obevcimanyd179569584.thapcam.link/OGXR3Avb_z2vZWWk1ty_Kg/Fv2lucGIbhPi2ca
 
 #EXTINF:-1 group-title="VeBoTV", NguoiGia
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/7rWacga5LxL3dsY-ui3bUQ/Fv2lucGIbhPi2caWYvF5Lg/1728211665792/live/oldHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/9by7a7czvMtJ1Lj98cw9hQ/e56ce8a755cda33e7f050da0b700d013/1728237939/live/_definst_/stream_1_1bda7@oldFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/7rWacga5LxL3dsY-ui3bUQ/Fv2lucGIbhPi2caWYvF5Lg/1728211665792/live/oldHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/9by7a7czvMtJ1Lj98cw9hQ/e56ce8a755cda33e7f050da0b700d013/1728237939/live/_definst_/stream_1_1bda7@oldFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiHuc
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/iZPIvAyxWy--VzcheMdY6g/Fv2lucGIbhPi2caWYvF5Lg/1728211392408/live/hucHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/iIbYtXjpCLnpQJQEu2L0NA/f13af37e22c82318c65a375473fc75f2/1728238096/live/_definst_/stream_1_1bda7@hucFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/iZPIvAyxWy--VzcheMdY6g/Fv2lucGIbhPi2caWYvF5Lg/1728211392408/live/hucHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/iIbYtXjpCLnpQJQEu2L0NA/f13af37e22c82318c65a375473fc75f2/1728238096/live/_definst_/stream_1_1bda7@hucFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", TrauGacBep
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/7IycZ3z6E9De76PtjUYQ-g/Fv2lucGIbhPi2caWYvF5Lg/1728210620667/live/trauHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/dMU3lkbCKCr2pJa9fWnT1w/847878fb5be3ca4c0539d0883bc5274a/1728238511/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/7IycZ3z6E9De76PtjUYQ-g/Fv2lucGIbhPi2caWYvF5Lg/1728210620667/live/trauHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/dMU3lkbCKCr2pJa9fWnT1w/847878fb5be3ca4c0539d0883bc5274a/1728238511/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiCun
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/9enOtlcrNLuOvZIIvQG5Wg/Fv2lucGIbhPi2caWYvF5Lg/1728240925522/live/cunHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/AaPFV5XMZHTEnlxUJTeH0Q/317070d9a306b71c37e6ea9e37f2842f/1728240925/live/_definst_/stream_1_1bda7@cunFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/9enOtlcrNLuOvZIIvQG5Wg/Fv2lucGIbhPi2caWYvF5Lg/1728240925522/live/cunHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/AaPFV5XMZHTEnlxUJTeH0Q/317070d9a306b71c37e6ea9e37f2842f/1728240925/live/_definst_/stream_1_1bda7@cunFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiLong
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/Pml8u41Ip4X9DmA9sMw22A/Fv2lucGIbhPi2caWYvF5Lg/1728228801614/live/longHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/9_KizF3ik-96SzV821TRKw/3eccd6392218a7eb1e58eb18b5b4757c/1728239189/live/_definst_/stream_1_1bda7@longFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/Pml8u41Ip4X9DmA9sMw22A/Fv2lucGIbhPi2caWYvF5Lg/1728228801614/live/longHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/9_KizF3ik-96SzV821TRKw/3eccd6392218a7eb1e58eb18b5b4757c/1728239189/live/_definst_/stream_1_1bda7@longFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiSoi
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/Ltumi4jr6emDIGZmovxBcA/Fv2lucGIbhPi2caWYvF5Lg/1728238004741/live/soiHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/SCmdpJWKEmn4M6C7mrbMEA/522fa8a1e6086eda6ae886e796133e2d/1728238004/live/_definst_/stream_1_1bda7@soiFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/Ltumi4jr6emDIGZmovxBcA/Fv2lucGIbhPi2caWYvF5Lg/1728238004741/live/soiHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/SCmdpJWKEmn4M6C7mrbMEA/522fa8a1e6086eda6ae886e796133e2d/1728238004/live/_definst_/stream_1_1bda7@soiFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiCao
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/_M0nTb9erJHZ0JK4jKPWRQ/Fv2lucGIbhPi2caWYvF5Lg/1728239034555/live/caoHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/qbbKSgXp3n9zbjFKeya1yQ/0027e56455a2e21d4e9af4c00853528e/1728239034/live/_definst_/stream_1_1bda7@caoFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/_M0nTb9erJHZ0JK4jKPWRQ/Fv2lucGIbhPi2caWYvF5Lg/1728239034555/live/caoHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/qbbKSgXp3n9zbjFKeya1yQ/0027e56455a2e21d4e9af4c00853528e/1728239034/live/_definst_/stream_1_1bda7@caoFHD/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", NguoiPhep
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/zhmt69D0U2qyOAxcIpTevw/Fv2lucGIbhPi2caWYvF5Lg/1728239121218/live/phepHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/FRV_QAV5onpIFQ81cbxz8w/bb30dc1883f5f92057cd67eec640c4d0/1728239121/live/_definst_/stream_1_1bda7@phepFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/zhmt69D0U2qyOAxcIpTevw/Fv2lucGIbhPi2caWYvF5Lg/1728239121218/live/phepHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/FRV_QAV5onpIFQ81cbxz8w/bb30dc1883f5f92057cd67eec640c4d0/1728239121/live/_definst_/stream_1_1bda7@phepFHD/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="VeBoTV", NguoiNui
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-#https://obevcimanyd179569584.thapcam.link/gNd9KyFYeBs96rc5Huv4QQ/Fv2lucGIbhPi2caWYvF5Lg/1728237861172/live/nuiHD/chunklist.m3u8
-https://vb90xltcvg-secure.nsnd.live/xfmtfSgw8A8IaR0fRylI_Q/adb8de5045254f4388ff92b08aeba831/1728237861/live/_definst_/stream_1_1bda7@nuiFHD/chunklist.m3u8
+https://obevcimanyd179569584.thapcam.link/gNd9KyFYeBs96rc5Huv4QQ/Fv2lucGIbhPi2caWYvF5Lg/1728237861172/live/nuiHD/chunklist.m3u8
+#https://vb90xltcvg-secure.nsnd.live/xfmtfSgw8A8IaR0fRylI_Q/adb8de5045254f4388ff92b08aeba831/1728237861/live/_definst_/stream_1_1bda7@nuiFHD/chunklist.m3u8
+
+#EXTINF:-1 group-title="VeBoTV", May10
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179591709.thapcam.link/bXzYneDaylokvpBs6h3vyg/Fv2lucGIbhPi2caWYvF5Lg/1728322644554/live/may10/chunklist.m3u8
+
+#EXTINF:-1 group-title="VeBoTV", May11
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://obevcimanyd179591709.thapcam.link/H8kNeA_u5Qg9SjNl0T-_zA/Fv2lucGIbhPi2caWYvF5Lg/1728322629208/live/may11/chunklist.m3u8
 
 #EXTINF:-1 group-title="VeBoTV", May17
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -102,6 +112,9 @@ https://live-eu-pzybaks9eeliv.thapcam.link/a886554e990e7fd5ee8aa9a131e5bb18/1728
 #EXTINF:-1 group-title="VeBoTV", May28
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://obevcimanyd179591709.thapcam.link/ay-vo6jEMVCIo59DRLlBFg/Fv2lucGIbhPi2caWYvF5Lg/1728210853383/live/may28/chunklist.m3u8
+
+
+#---------------CA KHIA------------------#
 
 #EXTINF:-1 group-title="CAKHIA", BLV PHO
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -148,6 +161,14 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@luhd1/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/chunklist.m3u8
 
+#---------------GA VANG------------------#
+
+#EXTINF:-1 group-title="GAVANG", BLV GAMAP
+#EXTVLCOPT:http-referrer=https://tructiep1.gavang6.live/truc-tiep/2y8m4zh6d68nql0?serverType=4
+https://2604399733.global.cdnfastest.com/live/52080fea897c4d01a0e54c01d0b6c758_720/index.m3u8
+
+#---------------QUAY TAY------------------#
+
 #EXTINF:-1 group-title="QUAYTAY", BLV BATGIOI
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@momhd1/chunklist.m3u8
@@ -169,7 +190,7 @@ https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@phuhd1/chunkli
 https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@bachlongmahd1/chunklist.m3u8
 
 
-
+#---------------SOCOLA------------------#
 
 
 #EXTINF:-1 group-title="SOCOLA", BLV DECO
@@ -191,6 +212,8 @@ https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1728217166-0-0-
 #EXTINF:-1 group-title="SOCOLA", BLV BINBIN
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
 https://pull06.scstream.net/live/stream-486629_lhd.flv?auth_key=1728217166-0-0-b455e05aa6d20da7dd5a9fbff5234b88
+
+#---------------RA KHOI------------------#
 
 #EXTINF:-1 group-title="RAKHOI", BLV ROY
 #EXTVLCOPT:http-referrer=https://ck.plcdn.xyz/
