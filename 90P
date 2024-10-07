@@ -195,23 +195,54 @@ https://live-quaytay.vipcdnlive.xyz/live/_definst_/stream_1_a86e6@bachlongmahd1/
 
 #EXTINF:-1 group-title="SOCOLA", BLV DECO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull06.scstream.net/live/stream-9912060_lhd.flv?auth_key=1728216625-0-0-dfc52e3f63c41b33fdd870614642181d
+
 
 #EXTINF:-1 group-title="SOCOLA", BLV SINGER
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=38fed5bfc3b11f18e69b36997482c7fd&txTime=6702c4f9
+https://pull.niur.live/live/stream-9912102_lhd.flv?txSecret=a132fe32110ca10ae79c47a8aa68079d&txTime=67042f52
 
-#EXTINF:-1 group-title="SOCOLA", BLV DOM
+#EXTINF:-1 group-title="SOCOLA", BLV KEVIL
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull.niur.live/live/stream-434982_lhd.flv?txSecret=f4c229aca24364a342c10444c752fb09&txTime=6702c662
+https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key\u003d1728310286-0-0-dc241dd5ce98798856aed2c3f35922e8
+
+#EXTINF:-1 group-title="SOCOLA", BLV SATIVA
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key\u003d1728309986-0-0-9e2396fcfbfff6b0b515c258fac89096
+
+#EXTINF:-1 group-title="SOCOLA", BLV TABIENGIOI
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key\u003d1728310106-0-0-59b1ebef2c8d65f5dd7fc1a15ca35af4
+
+#EXTINF:-1 group-title="SOCOLA", BLV CRBUOI
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key\u003d1728310106-0-0-c57c4411d2b292a7fb3c13a49c54111f
+
+#EXTINF:-1 group-title="SOCOLA", BLV ODIN
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-9912098_lhd.m3u8?auth_key\u003d1728310166-0-0-ee0b46f4225dd7c2dbec8d2d27ee02c8
+
+#EXTINF:-1 group-title="SOCOLA", BLV SUNGAMUP
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key\u003d1728310226-0-0-ae014b6b6bd436550ee1203e612f99f9
 
 #EXTINF:-1 group-title="SOCOLA", BLV CUCAI
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull06.scstream.net/live/stream-9912091_lhd.flv?auth_key=1728217166-0-0-b11c22ebaaaa2da4b309492150664b70
+https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key\u003d1728308846-0-0-f229923abb9a192f08f050be967d3472
 
-#EXTINF:-1 group-title="SOCOLA", BLV BINBIN
+#EXTINF:-1 group-title="SOCOLA", BLV KUDO
 #EXTVLCOPT:http-referrer=https://socolive14.tv/
-https://pull06.scstream.net/live/stream-486629_lhd.flv?auth_key=1728217166-0-0-b455e05aa6d20da7dd5a9fbff5234b88
+https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key\u003d1728310346-0-0-f295f557bae9f22a315277cdcd21064e
+
+#EXTINF:-1 group-title="SOCOLA", BLV APAO
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-235232_lhd.m3u8?auth_key\u003d1728310406-0-0-1a5fda40c5893e3d4f96f16e74f63564
+
+#EXTINF:-1 group-title="SOCOLA", BLV TAP
+#EXTVLCOPT:http-referrer=https://socolive14.tv/
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key\u003d1728310586-0-0-0fe7b94d25d24fb6cce7978d52fc79b2
+
+
+
 
 #---------------RA KHOI------------------#
 
